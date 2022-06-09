@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Main-Class: com.vladarsenjtev.Main
+Package: com.vladarsenjtev
+Created-By: Vlad
